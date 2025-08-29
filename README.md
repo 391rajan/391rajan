@@ -1,49 +1,45 @@
-<h2 align="left">Hi 👋! My name is Rajan Kumar </h2>
+<h1>Hi 👋, I'm Rajan Kumar</h1>
+<p>A MERN Stack Developer passionate about building scalable web applications. I'm currently pursuing my B.Tech in Electronics and Communication and have hands-on experience leading development teams and building full-stack projects from scratch.</p>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D391rajan%26hide_title%3Dfalse%26hide_rank%3Dfalse%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26disable_animations%3Dfalse%26theme%3Ddracula%26locale%3Den%26hide_border%3Dfalse" height="150" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3D391rajan%26locale%3Den%26hide_title%3Dfalse%26layout%3Dcompact%26card_width%3D320%26langs_count%3D8%26theme%3Ddracula%26hide_border%3Dfalse" height="150" alt="languages graph"  />
-</div>
+<h2>🚀 Languages and Tools I Use</h2>
+<p>
+<a target="_blank" href="https://www.java.com" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://reactjs.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://nodejs.org" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://expressjs.com" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
+<a target="_blank" href="https://www.mongodb.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://www.mysql.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.w3.org/html/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://www.w3schools.com/css/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://getbootstrap.com" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+<a target="_blank" href="https://tailwindcss.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://git-scm.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://postman.com" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h2>🎯 My Projects</h2>
+<ul>
+<li><strong>AI Quiz Generator:</strong> Developed a full-stack MERN application that dynamically generates quizzes using AI based on user-defined topics and difficulty levels.</li>
+<li><strong>Dropshipping E-Commerce Website:</strong> Built a comprehensive dropshipping platform with the MERN stack, featuring a product catalog, user authentication, secure payments, and an admin dashboard.</li>
+</ul>
 
-<div align="left">
-<p><strong>Languages & Databases:</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-<div align="left">
-<p><strong>Frontend & Backend:</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-<img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
-</div>
+<h2>⚡️ Where to find me</h2>
+<p>
+<a target="_blank" href="https://www.google.com/search?q=https://linkedin.com/in/391rajankumar" style="display: inline-block;"><img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin" /></a>
+<a target="_blank" href="https://www.google.com/search?q=https://github.com/391rajan" style="display: inline-block;"><img src="https://www.google.com/search?q=https://img.shields.io/badge/github-%2523121011.svg%3F%26style%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="github" /></a>
+<a target="_blank" href="mailto:391raj@gmail.com" style="display: inline-block;"><img src="https://www.google.com/search?q=https://img.shields.io/badge/gmail-%2523D14836.svg%3F%26style%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="gmail" /></a>
+</p>
 
-<div align="left">
-<a href="mailto:391raj@gmail.com">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/391rajankumar">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/391rajan">
-<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DGitHub%26logo%3Dgithub%26label%3D%26color%3D181717%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="35" alt="github logo"  />
-</a>
-</div>
-
-<br clear="both">
-
-<img src="https://www.google.com/search?q=https://raw.githubusercon
+<h2>📊 My GitHub Stats</h2>
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D391rajan%26show_icons%3Dtrue%26locale%3Den%26theme%3Ddracula" alt="391rajan's GitHub Stats" />
+<br/>
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D391rajan%26theme%3Ddracula" alt="391rajan's GitHub Streak" />
+</p>
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3D391rajan%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Ddracula" alt="391rajan's Top Languages" />
+</p>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D391rajan%26theme%3Ddracula" alt="391rajan's Trophies" /></a>
+</p>
