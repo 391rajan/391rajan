@@ -1,7 +1,3 @@
-<table width="100%" border="1" cellpadding="10">
-<tr>
-<td>
-
 Hi 👋, I'm Rajan Kumar
 A passionate MERN Stack Developer and Team Lead from Pune, India. Currently building scalable web applications and exploring the intersection of AI and web technology.
 
@@ -28,7 +24,3 @@ Languages and Tools:
 <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3D391rajan%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dtokyonight" alt="391rajan's Top Languages" />
 <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D391rajan%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight%26count_private%3Dtrue" alt="391rajan's GitHub Stats" />
 </p>
-
-</td>
-</tr>
-</table>
