@@ -21,6 +21,6 @@ Languages and Tools:
 </p>
 
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3D391rajan%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dtokyonight" alt="391rajan's Top Languages" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D391rajan%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight%26count_private%3Dtrue" alt="391rajan's GitHub Stats" />
 </p>
