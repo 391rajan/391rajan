@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan Kumar</h1>
-<h3 align="center">A passionate MERN Stack Developer and Team Lead from India</h3>
+<h3 align="center">A passionate MERN Stack Developer </h3>
 
 <br/>
 
